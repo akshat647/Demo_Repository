@@ -1,2 +1,3 @@
 Hello, I have created a file F7
 This is the edited file.
+Check for merge conflict.
