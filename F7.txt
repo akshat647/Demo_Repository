@@ -1,4 +1,4 @@
 Hello, I have created a file F7
 This is the edited file.
 Check for merge conflict.
-Now I making changes to this file.
+I am here to implement revert after commit.
